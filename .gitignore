@@ -1,0 +1,23 @@
+# Solana keypairs and secrets
+.env
+.env.*
+id.json
+*keypair*.json
+*wallet*.json
+*.pem
+*.key
+
+# Build and test artifacts
+target/
+test-ledger/
+.anchor/
+node_modules/
+dist/
+build/
+
+# OS and editor artifacts
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
