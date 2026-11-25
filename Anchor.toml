@@ -1,0 +1,27 @@
+
+skip_local_validator = true
+ 
+[toolchain]
+ 
+[features]
+resolution = true
+skip-lint = false
+ 
+[programs.localnet]
+taper_protocol = "EuR5xFdq52NS8fqACtNxnzAPQDiy4XKEjcFmP8rsedMf"
+ 
+[programs.devnet]
+taper_protocol = "EuR5xFdq52NS8fqACtNxnzAPQDiy4XKEjcFmP8rsedMf"
+ 
+[programs.mainnet]
+taper_protocol = "EuR5xFdq52NS8fqACtNxnzAPQDiy4XKEjcFmP8rsedMf"
+ 
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+ 
+[scripts]
+test = "cargo test"
+ 
+[hooks]
+ 
