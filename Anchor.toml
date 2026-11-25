@@ -7,13 +7,13 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-taper_protocol = "49T6GXW7F38pRv86JBWFPHcYTmUufUSwkVu9JNtFZLwa"
+taper_protocol = "TaPR2bZ65dndU7m8HC1UZ4vT9Lb3XF7UGnGsmQBMDF6"
 
 [programs.localnet]
-taper_protocol = "49T6GXW7F38pRv86JBWFPHcYTmUufUSwkVu9JNtFZLwa"
+taper_protocol = "TaPR2bZ65dndU7m8HC1UZ4vT9Lb3XF7UGnGsmQBMDF6"
 
 [programs.mainnet]
-taper_protocol = "49T6GXW7F38pRv86JBWFPHcYTmUufUSwkVu9JNtFZLwa"
+taper_protocol = "TaPR2bZ65dndU7m8HC1UZ4vT9Lb3XF7UGnGsmQBMDF6"
 
 [provider]
 cluster = "localnet"
