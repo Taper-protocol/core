@@ -7,7 +7,7 @@ use anchor_spl::token_interface::{
     burn, transfer_checked, Burn, Mint, TokenAccount, TokenInterface, TransferChecked,
 };
 
-declare_id!("EuR5xFdq52NS8fqACtNxnzAPQDiy4XKEjcFmP8rsedMf");
+declare_id!("49T6GXW7F38pRv86JBWFPHcYTmUufUSwkVu9JNtFZLwa");
 
 #[cfg(not(feature = "no-entrypoint"))]
 solana_security_txt::security_txt! {
