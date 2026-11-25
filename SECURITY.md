@@ -1,4 +1,4 @@
-**`SECURITY.md`** — обязательный файл для грантовых комиссий и аудиторов:
+
 
 ```markdown
 # Security Policy
